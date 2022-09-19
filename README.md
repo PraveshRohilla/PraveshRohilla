@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pravesh Rohilla and a teacher by profession
+- 👀 I’m interested in teaching computer science, Maths & Physics
+- 🌱 I’m currently teaching Python, micro:bit
+- 💞️ I’m looking to collaborate on python, micro:bit
+- 📫 You can reach me @ cs.sgrr.2020@gmail.com
